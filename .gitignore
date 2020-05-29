@@ -1,0 +1,10 @@
+matrixMul-2.cu
+common/
+.vs/
+additional_resources/
+matrixMul/x64/
+*.lnk
+pr_pkg_cuda1_19_20.pdf
+pr_pkg_cuda2_19_20.pdf
+matrixMul_W.cu
+matrixMul/readme.txt
